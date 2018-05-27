@@ -3,6 +3,6 @@
     <string name="change">Change of room</string>
     <string name="Monday">Monday (26th June)</string>
     <string name="Notifications">Notifications</string>
-    <string name="breakfast">BREAKFAST \t \t \t \t \t \t \t \t \t \t \t \t\t\t\t\t\t\t\8:00 - 9:30 \n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\tHostel Patchwork Canteen</string>
-    <string name="lecture">LECTURE \t \t \t \t \t \t \t \t \t \t \t \t\t\t\t\t\t\t\10:30 - 13:30 \n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tCZITT, room 4.05</string>
+    <string name="breakfast">BREAKFAST \t \t \t \t \t \t \t\t\t\t\t\t\8:00 - 9:30 \n \t\t\t\t\t\t\t\t\t\t\tHostel Patchwork Canteen</string>
+    <string name="lecture">LECTURE \t \t \t \t \t \t  \t\t\t\t\t\t\t\10:30 - 13:30 \n \t\t\t\t\t\t\t\t\t\t\t\t\t\tCZITT, room 4.05</string>
 </resources>
